@@ -1,3 +1,10 @@
+
+
+@font-face {
+    font-family: 'MyFont';
+    src: url('../src/my-font.woff2') format('woff2'), url('./my-font.woff') format('woff');
+}
+
 .hello {
     color: red;
     background: url("./react-icon.png");
