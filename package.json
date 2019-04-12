@@ -4,7 +4,8 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build": "webpack --config webpack.config.js"
+    "tesr": "echo \"Error: no test specified \" && exit 1",
+    "build": "webpack"
   },
   "devDependencies": {
     "webpack": "^4.30.0",
